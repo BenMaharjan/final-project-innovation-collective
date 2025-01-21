@@ -91,7 +91,7 @@ These are all still in ideation or under discussion.
 
 ### Live Website Link
 
-- https://gatherly-6tik.onrender.com/
+- https://final-project-innovation-collective-p9uyw95ld.vercel.app/
 
 ### Final Presentation
 
@@ -101,7 +101,7 @@ These are all still in ideation or under discussion.
 ### GitHub Repo
 
 - GitHub Repo (this page)
-  - https://github.com/SchoolOfCode/final-project-innovation-collective
+  - https://github.com/BenMaharjan/final-project-innovation-collective
 
 ### Planning
 
